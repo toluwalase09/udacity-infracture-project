@@ -1,1 +1,1 @@
-load balancer link = http://serve-WebAp-QNGFHLXWT1JI-258551404.us-east-1.elb.amazonaws.com# udacity-infracture-project
+load balancer link = http://serve-webap-qkvgb9f1w549-429379062.us-east-1.elb.amazonaws.com/
